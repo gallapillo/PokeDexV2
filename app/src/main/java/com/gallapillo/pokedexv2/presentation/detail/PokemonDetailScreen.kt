@@ -17,7 +17,6 @@ import coil.ImageLoader
 import coil.compose.AsyncImage
 import coil.request.ImageRequest
 import com.gallapillo.pokedexv2.data.net.dto.PokemonDetailDto
-import com.gallapillo.pokedexv2.presentation.list.PokemonDetailState
 import com.gallapillo.pokedexv2.presentation.PokemonViewModel
 
 @Composable

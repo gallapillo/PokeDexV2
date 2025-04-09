@@ -1,4 +1,4 @@
-package com.gallapillo.pokedexv2.presentation.list
+package com.gallapillo.pokedexv2.presentation.detail
 
 import com.gallapillo.pokedexv2.data.net.dto.PokemonDetailDto
 

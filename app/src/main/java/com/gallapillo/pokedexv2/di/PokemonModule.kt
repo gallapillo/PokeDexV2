@@ -4,11 +4,11 @@ import android.app.Application
 import android.content.Context
 import coil.ImageLoader
 import coil.request.CachePolicy
-import com.gallapillo.pokedexv2.const.Url.BASE_URL
 import com.gallapillo.pokedexv2.data.local.PokemonDao
 import com.gallapillo.pokedexv2.data.local.PokemonDatabase
 import com.gallapillo.pokedexv2.data.local.PokemonLocalDataSource
 import com.gallapillo.pokedexv2.data.net.PokemonApi
+import com.gallapillo.pokedexv2.util.Url.BASE_URL
 import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFactory
 import dagger.Module
 import dagger.Provides

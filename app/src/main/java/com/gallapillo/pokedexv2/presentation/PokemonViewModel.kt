@@ -4,7 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.gallapillo.pokedexv2.domain.use_case.GetListPokemonUseCase
 import com.gallapillo.pokedexv2.domain.use_case.GetPokemonDetailUseCase
-import com.gallapillo.pokedexv2.presentation.list.PokemonDetailState
+import com.gallapillo.pokedexv2.presentation.detail.PokemonDetailState
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
